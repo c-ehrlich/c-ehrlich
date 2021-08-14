@@ -1,15 +1,10 @@
 # 👋 Hi, I’m @c-ehrlich
 ## 👀 I’m interested in ...
-Currently, mostly in becoming a professional developer  
-other interests outside of that:  
-* teaching (have worked as a lecturer in Design at universities in the past)
-* language learning (currently at N3-N2 level in Japanese)
+* Professionally: Backend Web Dev and DevOps
+* As a hobby: Creating/contributing to tools for language learning (I'm an intermediate/advanced Japanese learner) 
 ## 🌱 I’m currently learning ...
-* Web Dev (mostly focused on backend)
-* CS Fundamentals
-## 💞️ I’m looking to collaborate on ...
-Some of the tools created by the immersion language learning community have had a huge influence on me, so I'm hoping to contribute to that field soon.
-Other than that if you're interested in working together on anything, just contact me!
+* Web Dev (Django, Django Rest Framework, React with Redux and TypeScript)
+* Algorithms & Data Structures
 ## 📫 How to reach me ...
 ehrlich dot christopher at gee mail dot com  
 discord @cje#1138
