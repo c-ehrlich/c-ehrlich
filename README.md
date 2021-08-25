@@ -5,5 +5,5 @@
 ## 🌱 I’m currently learning ...
 Design Patterns for React + TypeScript, Docker/Kubernetes
 ## 📫 How to reach me ...
-ehrlich dot christopher at gee mail dot com  
+ehrlich dot christopher at gmail dot com  
 discord @cje#1138
