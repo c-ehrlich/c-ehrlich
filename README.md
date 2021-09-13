@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @c-ehrlich
 ## 👀 I’m interested in ...
-* Professionally: Full Stack Web Dev and DevOps
+* Professionally: Full Stack Web Development
 * As a hobby: Creating/contributing to tools for language learning (I'm an intermediate/advanced Japanese learner) 
 ## 🌱 I’m currently learning ...
-TypeScript, Docker/Kubernetes
+DevOps - Docker, AWS, CI/CD
 ## 📫 How to reach me ...
 ehrlich dot christopher at gmail dot com  
 discord @cje#1138
