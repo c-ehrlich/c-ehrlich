@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @c-ehrlich
+# 👋 Hi, I’m Christopher
 ## 👀 I’m interested in ...
 * Professionally: Full Stack Web Development
 * As a hobby: Creating/contributing to tools for language learning (I'm an intermediate/advanced Japanese learner) 
