@@ -1,9 +1,10 @@
-# 👋 Hi, I’m Christopher
-## 👀 I’m interested in ...
-* Professionally: Full Stack Web Development
-* As a hobby: Creating/contributing to tools for language learning (I'm an intermediate/advanced Japanese learner) 
-## 🌱 I’m currently learning ...
-DevOps - Docker, AWS, CI/CD
+# Hi, I’m Christopher
+## Technologies ...
+* Backend: Django, Django REST Framework, PostgreSQL, Basic DevOps and Deployment (AWS)
+* Frontend: React + TypeScript, Redux, Zustand
+* Styling: Material-UI, Styled Components
+## Currently learning ...
+Express, Next.js
 ## 📫 How to reach me ...
 ehrlich dot christopher at gmail dot com  
 discord @cje#1138
