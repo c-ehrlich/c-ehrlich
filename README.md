@@ -6,5 +6,5 @@
 ## Currently learning ...
 Express, Next.js
 ## How to reach me ...
-ehrlich dot christopher at gmail dot com  
+ehrlich dot my first name at gmail dot com  
 discord @cje#1138
