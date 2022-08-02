@@ -2,6 +2,8 @@
 
 Designer and University Lecturer turned Full Stack Developer. 
 
+Currently working at 360kompany / Moody's
+
 I like:
 * Creating tools
 * Teaching / explaining things
