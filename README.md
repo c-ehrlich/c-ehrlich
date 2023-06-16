@@ -1,4 +1,4 @@
-# Hi, I’m Christopher
+# Hi, I’m Chris
 
 Designer and University Lecturer turned Full Stack Developer. 
 
