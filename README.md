@@ -12,4 +12,4 @@ I'm particularly interested in pushing DX to a new level, empowering developers 
 
 I care strongly about improving documentation, and I have also begun creating educational content for these and other projects on both [YouTube](https://www.youtube.com/@ccccjjjjeeee) and written mediums. 
 
-Currently working at Moody's Analytics.
+Currently working at [Axiom](https://axiom.co/).
