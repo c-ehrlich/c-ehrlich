@@ -1,0 +1,43 @@
+name: Deploy personal site when profile README changes
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: personal-site-deploy-hook
+  cancel-in-progress: true
+
+jobs:
+  trigger-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validate deploy hook secret
+        env:
+          DEPLOY_HOOK_URL: ${{ secrets.PERSONAL_SITE_DEPLOY_HOOK_URL }}
+        run: |
+          if [ -z "$DEPLOY_HOOK_URL" ]; then
+            echo "Missing required secret: PERSONAL_SITE_DEPLOY_HOOK_URL"
+            exit 1
+          fi
+
+      - name: Trigger personal site deploy hook
+        env:
+          DEPLOY_HOOK_URL: ${{ secrets.PERSONAL_SITE_DEPLOY_HOOK_URL }}
+        run: |
+          curl \
+            --fail \
+            --silent \
+            --show-error \
+            --retry 3 \
+            --retry-delay 3 \
+            --retry-all-errors \
+            --request POST \
+            "$DEPLOY_HOOK_URL"
