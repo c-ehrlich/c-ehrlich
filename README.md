@@ -1,4 +1,4 @@
-Hi :)
+Hi :^)
 
 ### Recent side projects (past year or so)
 
