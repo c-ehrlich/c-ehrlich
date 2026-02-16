@@ -6,8 +6,6 @@ Right now I work remotely as a software engineer for [Axiom](https://axiom.co/).
 
 You can find me on [Twitter](https://x.com/ccccjjjjeeee), [GitHub](https://github.com/ccccjjjjeeee), and [LinkedIn](https://www.linkedin.com/in/ccccjjjjeeee/), or [book a call](https://cal.com/ccccjjjjeeee) with me.
 
-You can also send me an email at [my last name] dot [my first name] at gmail dot com. I always appreciate hearing from you.
-
 ### Recent side projects (past year or so)
 
 * 🌆 [micropolis](https://github.com/c-ehrlich/micropolis) - SimCity (1989) ported to TypeScript, running in the browser.
