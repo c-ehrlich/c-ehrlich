@@ -1,6 +1,6 @@
 ## Hi :^)
 
-I’m passionate about building performant, data-heavy apps, building best-in-class SDKs, leveling up developer experience, and helping teams ship fast. Recently I've also gotten into [pushing the limits](https://x.com/gdb/status/2021272681237361027) of what is possible with coding agents.
+I build performant, data-heavy apps, best-in-class SDKs, level up developer experience, and help teams ship fast. Recently I've also gotten into [pushing the limits](https://x.com/gdb/status/2021272681237361027) of what is possible with coding agents.
 
 Right now I work remotely as a software engineer for [Axiom](https://axiom.co/). Before that I spent some time at [Moody’s Analytics](https://www.moodys.com/). In my spare time, I contribute to open-source projects (You might know me as a maintainer of [Create T3 App](https://create.t3.gg/) and contributor to [tRPC](https://trpc.io/).
 
