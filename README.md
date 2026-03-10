@@ -15,3 +15,4 @@ You can find me on [Twitter](https://x.com/ccccjjjjeeee), [GitHub](https://githu
 * 🎥 [youtube-summarize-extension](https://github.com/c-ehrlich/youtube-summarize-extension) - Summarize YouTube videos to avoid clickbait. This used to work, but YouTube started restricting the closed captions API so no longer does.
 * ⌨️ [cjode](https://github.com/c-ehrlich/cjode) - Coding agent similar to Amp (but much worse). The basic agent + subagents work, CLI works, don't expect it to perform anywhere near SOTA. I mostly just built this to better understand how existing agents work.
 * 🔒 [eslint-plugin-use-server](https://github.com/c-ehrlich/eslint-plugin-use-server/) - Avoid turning private (and potentially unsecured!) helpers into public endpoints
+* ㊫ [ImmersionKit Mining Helper](https://github.com/c-ehrlich/immersionkit-mining-ext) - One-click Anki cards from ImmersionKit.com example sentences
