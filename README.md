@@ -8,6 +8,7 @@ You can find me on [Twitter](https://x.com/ccccjjjjeeee), [GitHub](https://githu
 
 ### Other things I've done
 
+* 🐶 [pr-brainrot](https://github.com/c-ehrlich/pr-brainrot) - GitHub Action: Peter and Stewie explain your pull request over Minecraft parkour
 * 🌆 [micropolis](https://github.com/c-ehrlich/micropolis) - SimCity (1989) ported to TypeScript, running in the browser. Plus an all-new map/scenario editor!
 * ⚡️ [trace-amp](https://github.com/c-ehrlich/trace-amp) - OpenTelemetry tracing wrapper for Amp
 * 📊 [enter-the-metrix](https://github.com/c-ehrlich/enter-the-metrix) - Tiny daemon: Mac vitals -> OpenTelemetry -> Axiom (or any other backend)
